@@ -1,0 +1,67 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "linkimage": "https://static1.squarespace.com/static/5a705ce0d74cffb25065aa36/5ab21d671ae6cf058ea2bd2b/5cf7a0e0978a4b000182f3b9/1561105384876/JAVA-10.jpeg?format=2500w",
+      "titulo": "Curso Java",
+      "subtitulo": "Se requiere un conocimiento medio de JAVA.",
+      "descripcion": "Curso de Java Intensivo",
+      "hashtag": "java",
+      "linkreferencia": "https://www.java.com/es/"
+    },
+    {
+      "id": "2",
+      "linkimage": "https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/07/python-library-1.jpg",
+      "titulo": "Curso Python",
+      "subtitulo": "Se requiere conocimiento básico de POO.",
+      "descripcion": "Curso de Python Básico",
+      "hashtag": "python",
+      "linkreferencia": "https://www.python.org/"
+    },
+    {
+      "id": "3",
+      "linkimage": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg",
+      "titulo": "Curso C#",
+      "subtitulo": "No se necesita conocimiento previo.",
+      "descripcion": "Curso de C# introductorio",
+      "hashtag": "C#",
+      "linkreferencia": "https://es.wikipedia.org/wiki/C_Sharp"
+    },
+    {
+      "id": "4",
+      "linkimage": "https://i.ytimg.com/vi/7fPXI_MnBOY/maxresdefault.jpg",
+      "titulo": "Curso JSX",
+      "subtitulo": "Es necesario un conocimiento básico para el curso.",
+      "descripcion": "Curso de React - JSX avanzado",
+      "hashtag": "JSX",
+      "linkreferencia": "https://es.reactjs.org/docs/introducing-jsx.html"
+    },
+    {
+      "id": "5",
+      "linkimage": "https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/django-logo.gif",
+      "titulo": "Curso Django",
+      "subtitulo": "Es necesario un conocimiento de python.",
+      "descripcion": "Curso de Django",
+      "hashtag": "Django",
+      "linkreferencia": "https://www.djangoproject.com/"
+    },
+    {
+      "id": "HmdW4hA",
+      "titulo": "Boostrap",
+      "descripcion": "Curso acelerado de Boostrap",
+      "hashtag": "bootstrap",
+      "linkimage": "https://www.4webs.es/blog/wp-content/uploads/2017/09/nueva-beta-de-bootstrap-4.jpg",
+      "subtitulo": "No se requiere conocimiento previo",
+      "linkreferencia": "https://getbootstrap.com/"
+    },
+    {
+      "id": "fLCKecj",
+      "titulo": "Angular",
+      "descripcion": "Curso de Angular",
+      "hashtag": "angular",
+      "linkimage": "https://cdn.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular-760x400.png",
+      "subtitulo": "No se requiere conocimiento previo",
+      "linkreferencia": "https://angular.io"
+    }
+  ]
+}
